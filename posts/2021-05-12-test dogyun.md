@@ -1,2 +1,0 @@
-# ㅇ ㅇㅜㅇ근이
-### 투썸asfdasfadsfdsafdasf
