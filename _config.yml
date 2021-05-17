@@ -99,6 +99,7 @@ author:
   bio              : "전공지식들을 모아둔 블로그입니다."
   location         : "South Korea"
   email            : "Email"
+  Website          : "Website12"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
